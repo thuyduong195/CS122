@@ -1,7 +1,7 @@
 #ifndef RECTANGLE_H
 #define RECTANGLE_H
 #include "shap.h"
-class Rectangle: public Shap
+class Rectangle: public Shape
 {
 	public:
 		Rectangle():Shap(0,0){}
