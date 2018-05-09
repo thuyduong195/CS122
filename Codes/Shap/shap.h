@@ -31,6 +31,6 @@ class Shap
 			return this-> height;
 		}
 		
-}
+};
 
 #endif
